@@ -1,5 +1,5 @@
 # SkautIS-ISsues
-Neoficiální seznam issues ve SkautIS a výsledků komunikce s podporou na "přechodnou" dobu než SkautIS bude mít vlastní issue tracker. 
+Neoficiální seznam issues ve SkautIS a výsledků komunikce s podporou na "přechodnou" dobu než SkautIS bude mít veřejný issue tracker. 
 
 # Proč by SkautIS měl mít vlastní issue tracker?
 (z mailu blizzardovi, preposlanemu Jerrymu, bez odpovedi)
